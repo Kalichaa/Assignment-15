@@ -5,13 +5,13 @@
     flex-wrap: $wrap;
 }
 
-@mixin roboto($weight: 400, $color: black, $height: 10px) {
+@mixin roboto($weight: 400, $color: black) {
     font-family: "Roboto", sans-serif;
     font-weight: $weight;
     font-style: normal;
     color: $color;
     // color: $color;
-    line-height: $height;
+
 }
 
 @mixin impBgImg($url: url, $position: center, $repeat: no-repeat) {

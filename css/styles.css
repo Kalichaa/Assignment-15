@@ -73,7 +73,6 @@ body {
   font-weight: 400;
   font-style: normal;
   color: black;
-  line-height: 10px;
 }
 
 .header-nav-logo {
@@ -102,10 +101,10 @@ main {
   font-weight: 700;
   font-style: normal;
   color: black;
-  line-height: 10px;
   text-align: center;
   font-size: 30px;
   color: rgb(79, 79, 176);
+  border: 1px solid;
 }
 
 .guide-headers {
@@ -113,7 +112,6 @@ main {
   font-weight: 700;
   font-style: normal;
   color: black;
-  line-height: 10px;
   text-align: center;
 }
 
@@ -122,7 +120,6 @@ main {
   font-weight: 400;
   font-style: normal;
   color: black;
-  line-height: 10px;
   line-height: 20px;
   margin-bottom: 10px;
 }
@@ -137,7 +134,6 @@ main {
   font-weight: 500;
   font-style: normal;
   color: black;
-  line-height: 10px;
   margin-left: 35px;
 }
 
@@ -161,7 +157,6 @@ footer .footer-left-side {
   font-weight: 600;
   font-style: normal;
   color: #d3d3d3;
-  line-height: 10px;
   width: 60%;
   display: flex;
   flex-direction: row;
@@ -198,7 +193,6 @@ footer .footer-right-side {
   font-weight: 400;
   font-style: normal;
   color: #727272;
-  line-height: 10px;
   line-height: 15px;
   margin-right: 30px;
 }/*# sourceMappingURL=styles.css.map */
